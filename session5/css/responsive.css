@@ -1,0 +1,89 @@
+
+@media screen and (max-width:768px)
+{
+.about .about-desc button
+{
+    margin-top: 30px;
+}
+.about .about-img {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.about img {
+    width: 100%;
+}
+
+.about .about-desc h1 {
+    text-align: left;
+}
+
+.about .about-desc {
+    text-align: center;
+    width: 100%;
+}
+.our-services .our-service-item
+{
+    width: 40%;
+}
+.our-Portfolio .our-Portfolio-img
+{
+    width: 40%;
+}
+.client-feedback h1
+{
+    font-weight: 20px;
+    margin: 0;
+}
+.client-feedback .feedback p{
+        text-align: center;
+        width: 100%;
+        margin-top: 20px;
+}
+.client-feedback .feedback
+{
+    text-align: center;
+}
+.client-feedback .feedback img
+{
+    display: inline-block;
+}
+.our-blog
+{
+    text-align: center;
+}
+.our-blog .blog-item
+{
+    width: 80%;
+        text-align: center;
+}
+.contact-us button
+{
+    margin-left: 200px;
+}
+}
+
+
+@media screen and (max-width:500px)
+{
+.our-services .our-service-item {
+    width: 50%;
+}
+.our-Portfolio .our-Portfolio-img
+{
+    width: 50%;
+}
+.client-feedback .feedback img
+{
+    padding: 0px;
+}
+.client-feedback .feedback
+{
+    padding: 20px;
+}
+.contact-us button
+{
+    margin-left: 100px;
+}
+
+}
